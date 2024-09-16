@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sayantan2k24](https://github.com/Sayantan2k24)
 
-- 📝 I regularly write articles on [https://sayantansamanta098.medium.com/](https://sayantansamanta098.medium.com/)
+- 📝 I write articles on [https://sayantansamanta098.medium.com/](https://sayantansamanta098.medium.com/)
 
 - 💬 Ask me about **DevOps & Cloud, Automation**
 
