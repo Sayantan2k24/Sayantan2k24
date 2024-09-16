@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DevOps & Cloud Projects**
 
-- 🌱 I’m currently learning **OpenStack, AWS, Hadoop,Prometheus, Grafana, etc.**
+- 🌱 I’m currently learning **Python Automation, Scripting, and Gen AI.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sayantan2k24](https://github.com/Sayantan2k24)
 
